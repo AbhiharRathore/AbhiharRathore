@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/ashishjain399/ashishjain399/master/mario.gif" width="120" />
 </p>
 
-# 👋 Hey, I’m Abhihar Singh Yadav 👾
+# 👋 Hey, I’m Abhihar Singh Rathore 👾
 
 ### 🧠 About Me
 
